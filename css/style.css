@@ -1,3 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Inter;    
+}
 .nav-link{
-    
+    color: #0D0A19;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; /* 150% */
+letter-spacing: -0.1px;
+}
+.SignUp{
+    color: #9A9EA7;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 21px; /* 150% */
+letter-spacing: -0.1px;
+}
+.SignUp img {
+    background: #F5F6F7;
+    border-radius: 10px;
+    width: 32px;
+    height: 32px;
+    padding: 5px 8px; 
 }
