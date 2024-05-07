@@ -14,6 +14,7 @@ font-style: normal;
 font-weight: 600;
 line-height: 24px; /* 150% */
 letter-spacing: -0.1px;
+margin-left: 20px;
 }
 .SignUp{
     color: #9A9EA7;
@@ -29,5 +30,6 @@ letter-spacing: -0.1px;
     border-radius: 10px;
     width: 32px;
     height: 32px;
-    padding: 5px 8px; 
+    padding: 5px 8px;
+    margin: 5px; 
 }
